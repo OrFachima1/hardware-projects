@@ -39,3 +39,5 @@ To ensure low jitter and phase noise, the DPLL requires a regulated 0.9V output 
 Or Fahima, Arsen Arutyunov  
 Advisor: Tal Elazar  
 Project No: 24-1-1-3097
+
+For a detailed visual overview of the design, see the [project poster](./poster.pdf).
