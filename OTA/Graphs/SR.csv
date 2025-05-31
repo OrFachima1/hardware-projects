@@ -1,0 +1,2 @@
+Expression,Value
+slewRate(VT("/Vout")  -121.021m nil 987.089m nil 10 90 nil "time" ),66.21E6
