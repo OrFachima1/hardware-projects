@@ -1,0 +1,72 @@
+Transition Time Analysis Report
+=============================
+Clock Period (t_CLK): 0.3 nS
+Supply Voltage (VDD): 1.2 V
+
+Signal                          Rise Time (ps)   Fall Time (ps)   Status
+------------------------------------------------------------------------
+/A_in<0>                       11.6            11.6            OK
+/A_in<1>                       11.6            11.6            OK
+/A_in<2>                       11.6            11.6            OK
+/A_in<3>                       11.1            11.1            OK
+/B_in<0>                       13.9            13.9            OK
+/B_in<1>                       14.2            14.2            OK
+/B_in<2>                       14.2            14.2            OK
+/B_in<3>                       13.8            13.8            OK
+/C_in<0>                       9.6             9.6             OK
+/C_in<1>                       9.6             9.6             OK
+/C_in<2>                       9.2             9.2             OK
+/C_in<3>                       12.7            12.7            OK
+/SA<0>                         10.8            10.8            OK
+/SA<1>                         11.1            11.1            OK
+/SA<2>                         11.2            11.2            OK
+/SA<3>                         11.2            11.2            OK
+/SA<4>                         10.8            10.8            OK
+/S<0>                          8.5             8.5             OK
+/S<1>                          10.8            10.8            OK
+/S<2>                          11.1            11.1            OK
+/S<3>                          10.7            10.7            OK
+/S<4>                          11.2            11.2            OK
+/S<5>                          11.1            11.1            OK
+/SA_in<0>                      14.2            14.2            OK
+/SA_in<1>                      14.4            14.4            OK
+/SA_in<2>                      14.3            14.3            OK
+/SA_in<3>                      13.8            13.8            OK
+/SA_in<4>                      12.8            12.8            OK
+/S_in<0>                       9.8             9.8             OK
+/S_in<1>                       9.8             9.8             OK
+/S_in<2>                       9.8             9.8             OK
+/S_in<3>                       9.9             9.9             OK
+/S_in<4>                       9.9             9.9             OK
+/S_in<5>                       9.9             9.9             OK
+/I17/P<0>                      18.1            18.1            OK
+/I17/P<1>                      18.7            18.7            OK
+/I17/P<2>                      18.8            18.8            OK
+/I17/P<3>                      19.3            19.3            OK
+/I17/P<4>                      19.9            19.9            OK
+/I17/G<0>                      12.6            12.6            OK
+/I17/G<1>                      12.4            12.4            OK
+/I17/G<2>                      12.9            12.9            OK
+/I17/G<3>                      12.5            12.5            OK
+/I17/G<4>                      11.7            11.7            OK
+/I17/G[0:1]                    12.1            12.1            OK
+/I17/G[1:2]                    8.9             8.9             OK
+/I17/P[1:2]                    12.5            12.5            OK
+/I17/int<0>                    13.3            13.3            OK
+/I17/int<1>                    12.6            12.6            OK
+/I17/int<2>                    12.3            12.3            OK
+/I17/int<3>                    12.7            12.7            OK
+/I17/int<4>                    8.2             8.2             OK
+/I17/int<5>                    11.7            11.7            OK
+/I17/int<6>                    12.2            12.2            OK
+/I17/int<7>                    11.3            11.3            OK
+/I17/int<8>                    7.9             7.9             OK
+/I17/int<9>                    13.5            13.5            OK
+/I17/int<10>                   12.8            12.8            OK
+
+Summary:
+--------
+Total violations found: 0
+
+Note: Rise/Fall times measured between 10% and 90% of VDD (1.20V)
+Maximum allowed transition time: 50ps
