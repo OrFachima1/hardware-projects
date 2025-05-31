@@ -1,4 +1,5 @@
 # 4-Bit ALU Design – VLSI Final Project
+![ALU Block Diagram](./Block_Diagram.png)
 
 This project presents a complete design of a 4-bit Arithmetic Logic Unit (ALU), implemented in Cadence Virtuoso using the gsclib045 standard cell library.
 
