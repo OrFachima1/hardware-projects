@@ -29,7 +29,7 @@ To ensure low jitter and phase noise, the DPLL requires a regulated 0.9V output 
 
 | Description                          | Image Preview                   |
 |--------------------------------------|---------------------------------|
-| **LDO Block Diagram**                | ![LDO Block](./Diagrams/ldo_block.png)   |
+| **LDO Block Diagram**                | ![LDO Block](./Diagrams/Basic-Structure-of-an-LDO-circuit4.png)   |
 | **Layout Screenshot**               | ![Layout](./Lay-Out/layout.png)         |
 | **Line Regulation vs. VDD**         | ![Line Regulation](./Graphs/lineregulation.png) |
 | **Load Regulation vs. Iload**       | ![Load Regulation](./Graphs/loadregulation.png) |
